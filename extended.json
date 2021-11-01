@@ -5,11 +5,6 @@
         "location": "Tokyo, Japan",
         "social": {
             "twitter_handle": "b1naryd0g"
-        },
-        "about": {
-            "me": "I'm a DevOps engineer with decades of experience delivering and supporting software deployments. I've been involved in Cardano since its inception and cryptocurrency in general since the early days of bitcoin. banderini donates 10% of operator profits to charities working with the homeless and refugees. The shared ownership of blockchains is a new model of enterprise which is poised to change everything about how the world works today and the opportunities for improving our societies are already available. Visit https://banderini.net for more.",
-            "server": "banderini nodes are geographically dispersed and architected for zero downtime during upgrades or failure events. banderini nodes will never miss a block. Core nodes operate on private networks and management layers are closed off from the internet, so the pool is secure by design. Infrastructure is monitored 24/7 and performance is constantly being evaluated. There are live dashboards available at http://blackbird.banderini.net - to toggle dashboards, click on 'banderini' in the top left corner of the page.",
-            "company": "https://www.solid-stakepool.com/"
         }
     },
     "claim-pool-string": {
